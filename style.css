@@ -161,3 +161,16 @@ a.button {
   margin-top: 0.2em;
   margin-bottom: 0;
 }
+
+input { 
+   background: #383a40; 
+   color: #fff; 
+}
+
+input[type='checkbox'] {
+    accent-color: #383a40;
+}
+
+input[type='radio'] {
+    accent-color: #383a40;
+}
